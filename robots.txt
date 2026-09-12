@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxalto100.github.io/notes-yp5qkt/sitemap.xml
